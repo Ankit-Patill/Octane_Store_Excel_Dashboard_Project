@@ -1,7 +1,5 @@
 # Octane_Store_Excel_Dashboard_Project
 
-# Octane Store Annual Report (2022) - Excel Dashboard
-
 ## Overview
 
 The **Octane Store Annual Report (2022)** is an interactive Excel dashboard that provides an in-depth analysis of the store's performance over the year. The dashboard visualizes key metrics such as sales trends, customer demographics, order status, and regional performance. It allows for quick insights into the top-performing sales channels, product categories, and customer segments. This project demonstrates the use of Excel as a tool for building dynamic and insightful dashboards.
